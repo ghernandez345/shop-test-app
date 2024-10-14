@@ -3,7 +3,7 @@
 client_id = "94c0b4d1b7f03b143b5c03f43f6ee0d4"
 name = "shop-test-app"
 handle = "shop-test-app-39"
-application_url = "https://vcr-treasures-posing-re.trycloudflare.com"
+application_url = "https://lose-federal-ordering-paris.trycloudflare.com"
 embedded = true
 
 [build]
@@ -16,9 +16,9 @@ scopes = ""
 
 [auth]
 redirect_urls = [
-  "https://vcr-treasures-posing-re.trycloudflare.com/auth/callback",
-  "https://vcr-treasures-posing-re.trycloudflare.com/auth/shopify/callback",
-  "https://vcr-treasures-posing-re.trycloudflare.com/api/auth/callback"
+  "https://lose-federal-ordering-paris.trycloudflare.com/auth/callback",
+  "https://lose-federal-ordering-paris.trycloudflare.com/auth/shopify/callback",
+  "https://lose-federal-ordering-paris.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
